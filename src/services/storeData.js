@@ -10,7 +10,7 @@ async function storeData(id, data) {
           keyFilename: pathKey
         });
      
-      const predictCollection = db.collection('Predictions');
+      const predictCollection = db.collection('predictions');
       return predictCollection.doc(id).set(data);
     }
     catch (error) {
