@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "submissionmlgc-muhammadarkan",
+    "private_key_id": "6b9ce926c93c5cfd1cd60d661f4e7d92e805fce2",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEd2cpwoeIaqf5\nGsfcU1d7tSXlR5rZn6mwQFIFy2fdZbe1erc7OkPNGCaX5Hsh/vYuLX9rVQp0F2c0\nznBSOx/Q6fcWNhNciNBr4z5GZKSHSU3jS+zcrN48GxfdYVljnIF+u4RdFNT4rqNO\n1l49kK6Oakwlk6qA4au3w4OvCDNOYwgE2HkEoJeZnieovuRDrcHjTGDbJPt8EuYK\nh0d9aHwC3miauUPwecOEMDMRE2FGVqTVxAXe4DPKGLpPO3tvkGWzd+/ooQOoBcjN\nNHJWEQTSUq8g2psc0rknXE/CAjujgWFytoT5eoF2BtZaubFv4pjnD2WJ/b9uIlRm\nThY84JIvAgMBAAECggEABRtZNuf3kqFgR64SDy25h3vKL3Eu7bk6nwHBtqTYjG5e\nFjmNMyg4FzFlwFwQDAT/5PNkKa97RSOaXB2BnPvwN8dkprTMbexGJEuNSXCMv7O8\nzOnXnlXJaYaOh07cuo7VA5ZQ7zEOQY45f414lpXMMAHa3oEQmNRT74ecF33R5qa6\n+c92yfyATsf7UMxvRzLwvHRa1QgFJi04wRBpZi85cmK96jxGS1Ku1z5HkKGK87ak\nOiTzWfkTrqaSkUaZa5IkkfThSFPlwZsb5AwnylDJEAxkbixJMBBSjEp2I6sOfm7n\ntiGCVMxPoxO8JqxGsUKyNQDzxp1sqUSaX35XdtDMAQKBgQD4nHpl/mB/jg8m5ZHU\ne/t/aI41sKJ4IEH5WzZ7JcRzCHjzOnppt2BQB5db+DYTOXCh2GT7UiOgXMedWjta\nw0nyIfjF+64FeaOoiZOr/Ghl7QGPhIJKbc/D/zKOQhurORuM+ssxR2VA2vDvmAUA\nyLAulU6pDXPuph98V3tgDmfPUQKBgQDKTjBM3bq6an1cpkovn3pU0NHdYT3NCQCb\nndB/rr4dYsiPbiF+2Efe5q7M75xXldo17iGcG7MrTM0cfBvwZl18ARWW9+j0uf4V\nE3ZDHWQVAuftyw2FR+O7ZN1MPznUArD/1v5H23HvFsKR4/MtNFqgvyybGg9DeHmr\nUGm11LDpfwKBgQCenY9GBY7hsuwd3/gzvkqOVlHtFV4DEGmnQze2SDlXPz+Tx2qU\nikerp7w9FFbD2zDuQZbj9dr/FFLTJN+bn99M2bnT7yhvG9V70RLjdu3Qoe8N9vf9\nrqQRI3/I3YqzqoLWZqg/L5L9VvLDmpUOk/w8LEx8dTXTPC/4cAQqG+bFkQKBgGP6\naBxUp+dgoTucYqVOZyJrYIvLdsNRY5+ESnoPXZ0gKIXZo2wQbtRVpKVa9STDxedJ\nHAsOFWmctvEQ1K3lqOWTk5vcQKBRGqRHzfY1HDTWDtCRvMjVUlJV8pev12BTRC3r\njhbs+E10LgvzX0ZDzVYLpHuyUUDC1T44q0VVK2j5AoGATtJSwDs7o+9+u961IjyY\nSOAf8lo9DgMn7CLWHWx4Dxxg2/za9oEup0skp4M+FDG+fT7R2xz1xRZgtdeyXsnR\nGMsXorYGsJ6GhK6+IqAky609qsf+he/TC8OrDeq7TjCZY6sv0fQqHa+fO7gb5aTe\ncqP93GQdRaOwEYeLNqZrIWQ=\n-----END PRIVATE KEY-----\n",
+    "client_email": "enable-firebase@submissionmlgc-muhammadarkan.iam.gserviceaccount.com",
+    "client_id": "112293668418374832634",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/enable-firebase%40submissionmlgc-muhammadarkan.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
