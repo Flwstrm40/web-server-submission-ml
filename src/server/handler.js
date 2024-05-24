@@ -38,7 +38,7 @@ async function getHistoryHandler(request, h) {
     projectId: "submissionmlgc-muhammadarkan",
     keyFilename: pathKey
   });
-  const predictCollection = db.collection("Predictions");
+  const predictCollection = db.collection("predictions");
   const snapshot = await predictCollection.get();
   const result = [];
   snapshot.forEach((doc) => {
